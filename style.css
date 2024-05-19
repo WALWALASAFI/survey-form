@@ -90,7 +90,8 @@ table {
   color: black;
 }
 
-table tbody td, th {
+table tbody td,th {
+  
   border: 2px solid #c3cad8;
   padding: 10px;
   width: 60px;
