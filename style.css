@@ -90,7 +90,7 @@ table {
   color: black;
 }
 
-table tbody td,th {
+table tbody td, th {
   border: 2px solid #c3cad8;
   padding: 10px;
   width: 60px;
@@ -126,7 +126,7 @@ button {
   width: 170px;
   height: 46px;
   background-color: #18bd5b;
-  border: 2p solid #18bd5b;
+  border: 2px solid #18bd5b;
   border-radius: 5px;
   color: #fff;
   font-size: 1em;
