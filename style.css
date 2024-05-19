@@ -1,23 +1,22 @@
 * {
   margin: 0;
   padding: 0;
- }
+}
  
- body{
+body {
   background-image: url(nature.gpg);
   background-size: cover;
   background-color: rgb(1, 2, 1);
   background-blend-mode: multiply;
+}
  
- }
- 
- .center{
+.center {
   border: 2px solid black;
   max-width: 60vw;
   margin: auto;
   background-color: #fff;
- }
- h1{
+}
+ h1 {
   text-align: center;
   padding: 40px;
   margin: 13px 15px;
