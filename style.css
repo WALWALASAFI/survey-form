@@ -2,14 +2,14 @@
   margin: 0;
   padding: 0;
 }
- 
+
 body {
   background-image: url(nature.gpg);
   background-size: cover;
   background-color: rgb(1, 2, 1);
   background-blend-mode: multiply;
 }
- 
+
 .center {
   border: 2px solid black;
   max-width: 60vw;
@@ -17,32 +17,34 @@ body {
   background-color: #fff;
 }
 h1 {
+
   text-align: center;
   padding: 40px;
   margin: 13px 15px;
   background-color: #3d3f49;
   color: #fff;
 }
- 
+
 .details {
-  padding: 15px 60px; 
+  padding: 15px 60px;
+  
 }
- 
+
 .details label {
-  font-size: lem;
+  font-size:lem;
 }
- 
+
 .details #sname {
   width: 96.5%;
-  height: 2.5vh;
+  height: 02.5vh;
   padding: 10px;
-  font-size: o.8rem;
+  font-size: .8rem;
   margin-top: 15px;
   border-radius: 5px;
   border: 1px solid grey;
   font-weight: 600;
 }
- 
+
 .details.height {
   height: 2.5vh;
   padding: 10px;
@@ -59,7 +61,7 @@ h1 {
   margin-top: 10px;
   width: 99.5%;
 }
- 
+
 .details #space {
   margin-top: 10px;
 }
@@ -74,7 +76,7 @@ h1 {
 hr {
   margin: 40px 0px;
 }
- 
+
 .details .heading {
   margin: 30px 0;
 }
@@ -83,7 +85,7 @@ hr {
   margin-bottom: 30px;
 }
  
-tabel {
+table {
   border-collapse: collapse;
   empty-cells: hide;
   color: black;
