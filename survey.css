@@ -1,3 +1,5 @@
+/* Corrected CSS */
+
 * {
   margin: 0;
   padding: 0;
@@ -5,7 +7,7 @@
 
 body {
   background-size: cover;
-  background-color: rgb(8, 19, 136);
+  background-color: rgba(11, 39, 42, 0.836);
   background-blend-mode: multiply;
 }
 
@@ -90,7 +92,7 @@ table {
 }
 
 table tbody td,
-th {
+table tbody th {
   border: 2px solid #c3cad8;
   padding: 10px;
   width: 60px;
@@ -100,7 +102,7 @@ table tbody td {
   text-align: center;
 }
 
-table tbody td {
+table tbody td:first-child {
   font-size: 0.8em;
   background-color: #d4d4d4;
 }
@@ -115,7 +117,6 @@ textarea {
   font-size: 20px;
   width: 670px;
   height: 200px;
-  font-size: 600;
 }
 
 .button {
@@ -127,7 +128,7 @@ button {
   width: 170px;
   height: 46px;
   background-color: #18bd5b;
-  border: 2p solid #18bd5b; /* Typo here: should be '2px' */
+  border: 2px solid #18bd5b;
   border-radius: 5px;
   color: #fff;
   font-size: 1em;
