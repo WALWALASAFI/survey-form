@@ -4,9 +4,8 @@
 }
 
 body{
-     background-image: url(nature.gpg);
      background-size: cover;
-     background-color: rgb(1, 2, 1);
+     background-color: rgb(8, 19, 136);
      background-blend-mode: multiply;
 
 }
